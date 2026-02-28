@@ -7,10 +7,10 @@ A safe, educational keyboard event logger written in Python.
 - Handles normal and special keys.
 - Clean exit using ESC.
 <br/>
-Designed for learning cybersecurity, DFIR, and Python event handling.
-<br/>
-**Features**
+Designed for learning cybersecurity, DFIR, and Python event handling.<br/>
+  
+**Features**<br/>
 - Logs keystrokes to keystrokes_log.txt.
 - Formats special keys like [Enter], [Space].
-- Adds timestamps for each keystroke.
+- Adds timestamps for each keystroke.<br/>
 Insatall pynput before execution!
